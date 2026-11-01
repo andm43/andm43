@@ -8,12 +8,16 @@ I turn messy data into clear answers, with a special interest in **data analytic
 - 🗺️ **Internship at Diskominfo Kabupaten Bandung:** complaint monitoring dashboard for 2,128 reports (Streamlit, Plotly, Gemini API)
 - ✍️ **Handwritten digit & letter recognition** with HOG + SVM → [repo](https://github.com/andm43/Pengenalan-Digit-dan-Karakter-Alfabet-Tulisan-Tangan-Menggunakan-Fitur-HOG-dan-Klasifikasi-SVM)
 
+### 🏅 Certifications
+- **Data Analyst – Certificate of Competence** (BNSP, LSP Informatika), 2026–2029
+- **Intro to Data Analytics – Mini Course** (RevoU), Oct 2026
+- **Gemini Certified Student – University** (Google for Education), 2026–2029
+
 ### 📚 Currently learning
 **Data analytics**
 - 🗃️ **SQL for analysis:** joins, aggregations, subqueries, and window functions
 - 📊 **Power BI:** data modeling, DAX basics, and interactive dashboards
 - 🐍 **Python for data analysis:** pandas and descriptive statistics
-- 🎓 **RevoU Data Analytics Mini Course**
 
 **AI & data automation**
 - ⚙️ **Workflow automation with n8n:** pulling data, transforming it, and sending reports or alerts automatically
